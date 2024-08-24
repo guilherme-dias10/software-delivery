@@ -1,0 +1,14 @@
+C:\Users\guild\OneDrive\Área de Trabalho\aulas\trabalhofaculdade\bin\Debug\net8.0\trabalhofaculdade.exe
+C:\Users\guild\OneDrive\Área de Trabalho\aulas\trabalhofaculdade\bin\Debug\net8.0\trabalhofaculdade.deps.json
+C:\Users\guild\OneDrive\Área de Trabalho\aulas\trabalhofaculdade\bin\Debug\net8.0\trabalhofaculdade.runtimeconfig.json
+C:\Users\guild\OneDrive\Área de Trabalho\aulas\trabalhofaculdade\bin\Debug\net8.0\trabalhofaculdade.dll
+C:\Users\guild\OneDrive\Área de Trabalho\aulas\trabalhofaculdade\bin\Debug\net8.0\trabalhofaculdade.pdb
+C:\Users\guild\OneDrive\Área de Trabalho\aulas\trabalhofaculdade\obj\Debug\net8.0\trabalhofaculdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guild\OneDrive\Área de Trabalho\aulas\trabalhofaculdade\obj\Debug\net8.0\trabalhofaculdade.AssemblyInfoInputs.cache
+C:\Users\guild\OneDrive\Área de Trabalho\aulas\trabalhofaculdade\obj\Debug\net8.0\trabalhofaculdade.AssemblyInfo.cs
+C:\Users\guild\OneDrive\Área de Trabalho\aulas\trabalhofaculdade\obj\Debug\net8.0\trabalhofaculdade.csproj.CoreCompileInputs.cache
+C:\Users\guild\OneDrive\Área de Trabalho\aulas\trabalhofaculdade\obj\Debug\net8.0\trabalhofaculdade.dll
+C:\Users\guild\OneDrive\Área de Trabalho\aulas\trabalhofaculdade\obj\Debug\net8.0\refint\trabalhofaculdade.dll
+C:\Users\guild\OneDrive\Área de Trabalho\aulas\trabalhofaculdade\obj\Debug\net8.0\trabalhofaculdade.pdb
+C:\Users\guild\OneDrive\Área de Trabalho\aulas\trabalhofaculdade\obj\Debug\net8.0\trabalhofaculdade.genruntimeconfig.cache
+C:\Users\guild\OneDrive\Área de Trabalho\aulas\trabalhofaculdade\obj\Debug\net8.0\ref\trabalhofaculdade.dll
